@@ -1,9 +1,7 @@
 # Projeto_PWEB
 Projeto desenvolvido para disciplina de P_WEB referente a uma  loja de roupa.
 
-A estrutura é definida como:
-
-MVC:
+# MVC:
 
 Model - A representação específica do domínio das informações nas quais o aplicativo
 opera. O modelo é outro nome para a camada de domínio. A lógica do domínio adiciona
@@ -21,14 +19,16 @@ mudanças no modelo e talvez na visualização.
 
 Linguagem: Javascript.
 
-FrameWork de Front-End: o framework escolhido para trabalhar o front-end da loja virtual
+# Frameworks:
+
+Front-End: o framework escolhido para trabalhar o front-end da loja virtual
 foi o React. O React (às vezes denominado React.js ou ReactJS) é uma biblioteca
 JavaScript de código aberto para criar interfaces de usuário. Destinado, principalmente, ao
 desenvolvimento de páginas web, é baseado em componentes para facilitar a renderização
 desses componentes quando os dados forem alterados, tornando assim o código mais
 previsível e mais fácil de ser depurado.
 
-Frame Work de Bank-End: o framework escolhido para trabalhar o back-end da loja virtual
+Bank-End: o framework escolhido para trabalhar o back-end da loja virtual
 foi o NodeJs. O Node.js é um interpretador, com código aberto, de código JavaScript de
 modo assíncrono e orientado a eventos, focado em migrar a programação do Javascript do
 lado do cliente para os servidores, criando assim aplicações de alta escalabilidade (como
